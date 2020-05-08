@@ -33,11 +33,11 @@
             "transcriptFields": ["CustomerEmail__c"]
         },
  	{
-            "label": "Consulta",
+            "label": "Tipo de Consulta",
             "transcriptFields": ["CustomerProblem__c"]
         },
         {
-            "label": "Consentimiento",
+            "label": "Consiento que traten mis datos",
             "transcriptFields": ["CustomerConsentimiento__c"]
 	    
         }
@@ -75,16 +75,16 @@
 	   "entityFieldMaps": [{
             "doCreate":false,
             "doFind":false,
-            "fieldName":"Consulta",
+            "fieldName":"Tipo de Consulta",
             "isExactMatch":false,
-            "label":"Consulta"
+            "label":"Tipo de Consulta"
             },
 	    {
             "doCreate":false,
             "doFind":false,
-            "fieldName":"Consentimiento",
+            "fieldName":"Consiento que traten mis datos",
             "isExactMatch":false,
-            "label":"Consentimiento"
+            "label":"Consiento que traten mis datos"
            }]
 	}
 	];
