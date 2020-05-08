@@ -77,7 +77,7 @@
             "doFind":false,
             "fieldName":"Tipo de Consulta",
             "isExactMatch":false,
-            "label":"Tipo de Consulta"
+            "label":"Tipo de consulta"
             },
 	    {
             "doCreate":false,
