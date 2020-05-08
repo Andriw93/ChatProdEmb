@@ -33,7 +33,7 @@
             "transcriptFields": ["CustomerEmail__c"]
         },
  	{
-            "label": "Tipo de Consulta",
+            "label": "Tipo de consulta",
             "transcriptFields": ["CustomerProblem__c"]
         },
         {
